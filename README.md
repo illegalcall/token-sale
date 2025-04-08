@@ -147,4 +147,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or clarification, please reach out directly at d3v.dhruv@gmail.com
+For any questions or clarification, please reach out directly at d3v.dhruv@gmail.com 
